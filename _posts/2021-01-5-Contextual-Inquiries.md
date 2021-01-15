@@ -80,6 +80,38 @@ down, nothing should be too much of a problem as that is a setback for everyone,
 eating lunch stop working because they were disabled by the user, the ringers will still work. If both are disabled, there will be flashes on the 
 person’s screen to tell them to throw out their trash.
 
+Who is going to use the design?
+This design will be used by Horace Mann middle and upper school students.
+
+What tasks do they now perform?
+Some students throw out their food when they are done with it but many do not. 
+
+What tasks are desired?
+It is desired that every student throws out their food when they are done. 
+
+How are the tasks learned?
+Students do not need to learn how to throw trash out but our app will help motivate students to do so. 
+
+Where are the tasks performed?
+The tasks are performed on the Horace Mann campus.
+
+What is the relationship between the person and data?
+Students will contribute to the data we collect because they will confirm that they have thrown out their food by taking and submitting a photo. 
+
+What other tools does the person have?
+In the app, the person has a camera to scan garbage and an alarm they can use. 
+
+How do people communicate with each other?
+There is no form of direct communication on this app but there is a leaderboard for who records throwing out the most trash.  
+
+How often are the tasks performed?
+The task should be performed at least once a day during the student’s lunch period. 
+
+What are the time constraints on the tasks?
+There is an allotted amount of time that each person will have after they scan the barcode on their food before they receive a notification reminding them to throw everything out. 
+
+What happens when things go wrong?
+When the app malfunctions, we want it to run a code where the app will shut down for 15-30 minutes, only closing the app from receiving data of scanned garbage people took but not the alarm. 
 
 
 
