@@ -15,7 +15,7 @@ Design Lab
 Design 1: SC
 The main focus of this design is our task of competing with the other HM students to throw the most trash out. Since it centers on the motivating factor of our app, this design is very point-oriented and clearly tells the user how to gain points. The idea is that the design will spur app usage and effectiveness due to the emphasis on competition, and thus more trash would be disposed of. The alarm would not be a part of this design, and rather, the reminders to throw out trash are more along the lines of a video game.  This changes the point of the app from being a chore to a fun activity that students would want to partake in to gain more points.  The reminders that might otherwise seem annoying, bring a different perspective of the app to light and ensure that app users throw away their trash while enjoying the app itself.
 
-"/assets/img/SCDesign.png"
+SC Design: "/assets/img/SCDesign.png"
 
 The alarm replacement notifications support the task of remembering to throw trash away.  They remind the app users to throw their trash away in a unique fashion, and swiping on the notification after unlocking the phone takes users directly to the camera of our app, so that they can take and upload the picture of their trash as they throw it away. 
 The camera screen supports the task of throwing the trash away, as it is what is used to take a picture of the trash that is being thrown away.  The existence of this screen enables users to use the app to help throw out their trash, and is accessible through the camera icon on the homepage of the app.
