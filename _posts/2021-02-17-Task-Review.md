@@ -25,6 +25,8 @@ The leaderboard as well as the heavy points-based design support the task of com
 Design 2: BR
 The second design is based on notifications, reminders, and the signing up system. The first two drawings represent a phone’s general home screen. On the top of the screen is a notification that reminds the user to throw out their trash, or tells that user that they won the leaderboard. The third drawing shows the home screen of the app, on which there are three options. The bottom two options, “camera” and “leaderboard” both have tiny circles that say “1 new” on them, in order to signify that the user has not-yet-checked notifications to view. The top option reads “set new goals” and is a primary function of the app. The fourth slide shows what happens when the user clicks on this option; three lines pop up and the user is asked to fill in their name, email and school. The use of this is to connect to another program for throwing out trash using the app.
 
+![BR Design](/assets/img/BRDesign.png)
+
 The first two drawings will be completed by clicking on the notifications, similar to any notification one would get on a phone.
 The third drawing is also completed by clicking on whatever has the notification bubble, to make said notification disappear. This will take the user to a different page
 The fourth drawing requires the user to enter in their name, email, and school so they can be identified and connected to whatever their school’s program is.
@@ -39,6 +41,8 @@ Once the user has submitted their photo, the app will give them the option to se
 
 Design 4: DC
 The last design is based mainly on the alarm system of the app. The app has a menu with the leaderboard, scan, and an alarm, and you can set the alarm to ring when you finish eating lunch. The task on the menu has three tasks: to press the other three options to take you to the leaderboard, to scan your trash, or to set the alarm to finish your eating. Since the leaderboard and scanner were already drawn, they were omitted from this design. When the alarm rings or goes off, you would throw the trash out; we want all the tasks to be so straightforward to the point that you would unconsciously stop the alarm and get up to throw your trash away. The alarm will work in both the locked screen and in the app screen, acting like the notifications from the Clock app. The difference is that there is no snooze button for the alarm, and only a stop button as throwing out the trash should not be a task to procrastinate or wait on. 
+
+![DC Design](/assets/img/DCDesign.png)
 
 The alarm is created by first pressing the alarm icon on the menu and is used like the Clock app. You would drag or type the numbers to set an alarm for your desired time. In fact, this task is so similar to the Clock app because it is so easy to use. Eventually, the user will not have to think about setting an alarm after doing it a couple times.
 Stopping the alarm will also be akin to the Clock app. If you close the screen, the alarm will look the exact same as the Clock app, just without the snooze button. If you were still looking at your phone, it would activate the ringer to vibrate in your hand and a notification that you would swipe up to remove like other clock alarms.
