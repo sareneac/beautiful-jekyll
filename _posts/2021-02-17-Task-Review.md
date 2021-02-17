@@ -34,6 +34,8 @@ The fourth drawing requires the user to enter in their name, email, and school s
 Design 3: LP
 Our third design is focused on documenting throwing away each user’s food; this includes scanning barcodes, setting alarms, and taking photos of trash cans. The app has a camera that will identify barcodes and once a barcode is successfully scanned, it will allow the user to set an alarm within the app to remind them to throw their food away. Once the user is done with their food, they must take a photo of the item that they scanned previously in a trash can. The users will then be given the option to share their photo to another app, like snapchat or instagram, to post with our custom CleanHM stickers to promote throwing out trash!
 
+![LP Design](/assets/img/LPDesign.png)
+
 To scan the barcode, the app will provide the user with the option to open the camera. The user will then hold their camera up to the barcode on the packaging of their food and the barcode should scan immediately.
 After the barcode is scanned, the user will be given the option to set an alarm to remember to throw the item they just scanned out. This page will identify what item the user just scanned and provide a place to enter the time they would like to set their alarm for. To set the alarm, the user simply needs to press “set” at the bottom of the second screen. 
 When the user is ready to throw their food out, presumably after their timer has gone off, they should open the camera on the app again. However, this time the user will take a photo of their food in a trash can to insure that they have thrown their food away. 
