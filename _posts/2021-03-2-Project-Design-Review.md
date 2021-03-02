@@ -9,3 +9,7 @@ many people believed the alarms should have snoozing capabilities given that itâ
 when someone is going to finish eating. Moreover, the alarms may go off in class if the user sets it incorrectly
 and quickly turning your phone off snoozes the alarm and does not stop the alarm. So if we disabled snoozing,
 the alarm continues to ring even if the user turns off the phone, making the user take it out again to stop the alarm. 
+
+
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/IMG_9620.jpeg)
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/IMG_9621.jpeg)
