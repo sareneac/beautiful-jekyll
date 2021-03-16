@@ -12,3 +12,6 @@ This screen is when a point has been added when you have taken a picture of the 
 
 ![LP Paper Prototype](/assets/img/File_001.jpeg)
 This is the leaderboard screen that shows the number of points you have, how far you are away from 1st place, and how many points the 1st, 2nd, and 3rd place have.
+
+Note: We decided not to add the other two alarm pages, for Lauren has already put a page for the alarm in, and it feels wrong to remove her work and contributions to the
+Paper Prototypes.
