@@ -8,7 +8,8 @@ This image shows the page of our app in which users set alarms by filling in num
 This is the home screen for the app, there are three buttons, Leaderboard, Photo, and Alarm
 
 ![LP Paper Prototype](/assets/img/File_003.jpeg)
-This screen is when a point has been added when you have taken a picture of the trash. The back button takes you back to the home page.
+This screen is when a point has been added when you have taken a picture of the trash. From here, you can go back to the home page, the leaderboard page, or to take another
+photo to gain more points.
 
 ![LP Paper Prototype](/assets/img/File_001.jpeg)
 This is the leaderboard screen that shows the number of points you have, how far you are away from 1st place, and how many points the 1st, 2nd, and 3rd place have.
