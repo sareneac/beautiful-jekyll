@@ -21,7 +21,7 @@ Table:
 |  | Add back buttons instead of a home button. |
 
 Photos:
-![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper3)
-![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper4)
-![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper5)
-![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper6)
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper3.jpeg)
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper4.jpeg)
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper5.jpeg)
+![image](https://github.com/sareneac/sareneac.github.io/blob/master/assets/img/Paper6.jpeg)
