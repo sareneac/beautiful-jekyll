@@ -9,3 +9,19 @@ The two revisions we think are the most important are the help page and a clear 
 Positive Incidents: Generally accessible for even old people, The alarm page is very similar to the alarm section in the Clock app, so it was easy to use, The buttons were clearer after changes.
 
 Negative Incidents: need a more prominent help page, Confusing photo page and unclear how it works, The leaderboard go to the photo page with a button that doesn’t say “go to photo page”, The alarm app should have the times and the periods corresponding to the Horace Mann classes, Buttons are too specific, maybe change the buttons to say next, Add back buttons instead of a home button.
+
+Table:
+| Positives Incidents | Negatives Incidents|
+| ------------- | ------------- |
+| Generally accessible for even old people  | need a more prominent help page |
+| The alarm page is very similar to the alarm section in the Clock app, so it was easy to use | Confusing photo page and unclear how it works |
+| The buttons were clearer after changes  | The leaderboard go to the photo page with a button that doesn’t say “go to photo page” |
+|  | The alarm app should have the times and the periods corresponding to the Horace Mann classes.  |
+|  | Buttons are too specific, maybe change the buttons to say next |
+|  | Add back buttons instead of a home button. |
+
+Photos:
+![image](Paper3)
+![image](Paper4)
+![image](Paper5)
+![image](Paper6)
